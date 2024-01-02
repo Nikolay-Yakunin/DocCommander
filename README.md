@@ -11,7 +11,7 @@ This document provides an overview of the DocCommander App, a Python application
 3. [User Interface](#user-interface)
 4. [Usage](#usage)
 5. [Dependencies](#dependencies)
-6. [Autor](#autor)
+6. [Author](#author)
 7. [Contributing](#contributing)
 8. [License](#license)
 
@@ -72,7 +72,7 @@ The application relies on the following dependencies:
 - **shutil:** Standard Python module for file operations.
 - **tkinter:** Standard Python GUI toolkit.
 
-## Autor<a name="autor"></a>
+## Author<a name="author"></a>
 
 - Nikolay-Yakunin
 
